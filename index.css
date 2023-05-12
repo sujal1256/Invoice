@@ -26,6 +26,7 @@ body{
     grid-template-columns: 1fr 2fr;
     padding-top: 20px;
     border-bottom: 1px solid grey;
+    padding-left:10px;
 }
 
 
